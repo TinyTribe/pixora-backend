@@ -108,8 +108,6 @@ git push origin feat-your-feature
 Pixora is more than just a marketplace — it’s a movement to empower creators, preserve originality, and reshape how collaboration happens in design. Whether you’re a developer, designer, or enthusiast — this is your space.
 
 ✨ Fork the repo, build, and help shape the future of decentralized creative work.
-```
-
 
 
 
